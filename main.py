@@ -1,0 +1,5 @@
+print("Hola Mundo :)")
+Code = (" Visual Studio Code Y Atom")
+print("¿Cual Es Tu Progama Para Progamar?" + Code)
+Todobien = input ("Todo Bien?")
+UsasDiscord = input ("Usas Discord? Si Y Lo Recomendo Y Lo Usas?")
